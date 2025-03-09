@@ -1,0 +1,2 @@
+# playerbot_mod_CNzh
+简单汉化playerbot模组机器人交互语言
